@@ -1,2 +1,2 @@
 # Hugin
- A simple Osint tool. In development.
+-In development-  A simple Osint tool.
